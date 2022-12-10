@@ -1,0 +1,17 @@
+@import url('https://fonts.cdnfonts.com/css/kelson');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Kelson', sans-serif;
+}
+
+body {
+  margin: 0;
+  background: rgb(80,145,249);
+  background: linear-gradient(90deg, rgba(80,145,249,1) 22%, rgba(0,212,255,1) 71%);
+  align-items: center;
+}
+
