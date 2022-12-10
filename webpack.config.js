@@ -26,10 +26,6 @@ module: {
 }
 ]},
  plugins: [htmlPlugin],
- devServer: {
-    host: 'localhost',
-    allowedHosts: ['localhost']
-},
 entry: './src/index.js',
   output: {
     filename: 'bundle.js',
