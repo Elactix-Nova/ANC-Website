@@ -1,6 +1,4 @@
 import React from 'react'
-import mealsImage from "../../assets/meals.jpg"
-import logoImage from "../../assets/logo.png"
 import classes from "./Header.module.css"
 import HeaderCartButton from './HeaderCartButton'
 import { Parallax } from 'react-scroll-parallax';
